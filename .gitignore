@@ -1,0 +1,10 @@
+# claves SSH
+git_key
+git_key.pub
+
+# temporales
+*.log
+*.tmp
+
+# sistema
+.vscode/
